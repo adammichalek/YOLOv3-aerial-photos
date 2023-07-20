@@ -14,7 +14,7 @@ The first step to constructing the model was to prepare a set of annotated aeria
 The annotations were made by students for the purpose of the Laboratories. It was then necessary to convert COCO files with a .json extension corresponding to the annotations of several photos into files of YOLO format with a .txt extension.
 
 An example of an aerial photograph with annotations corresponding to 11 following classes:
-Budynek(Building), Drzewo(Tree), Pojazd(Car), WieleDrzew(Many trees), Cienie drzew(Shadows of trees), Skladowisko(Junkyard), Parking, PryzmaZiemi(a Heap), Wykop(a Pit), ZbiornikWodny (Water Reservoir), ParkingPolny (Field Parking)
+Budynek(**Building), Drzewo(**Tree), Pojazd(**Car), WieleDrzew(**Many trees), Cienie drzew(**Shadows of trees), Skladowisko(**Junkyard), Parking, PryzmaZiemi(**a Heap), Wykop(**a Pit), ZbiornikWodny (**Water Reservoir), ParkingPolny (**Field Parking)
 
 ![image](https://github.com/adammichalek/YOLOv3-aerial-photos/assets/43831694/7802310e-3b41-4804-b9bd-52c12be1801d)
 
