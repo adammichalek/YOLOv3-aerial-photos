@@ -3,7 +3,6 @@ A model for object detaction using You Only Look Once v3 Algorithm.
 
 1. Download and unpack the main branch.
 2. Download the .weights file from https://drive.google.com/drive/folders/13C6JMyisoz3wDDdhj_85AeGnWgspQyTI.
-   This file contains the file that the model has been trained on.
 3. Run Object_Detection.py and select the photo that you want to test the model on.
 
 
