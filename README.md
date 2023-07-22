@@ -1,5 +1,5 @@
 # YOLOv3-aerial-photos
-A model for object detaction using You Only Look Once v3 Algorithm.
+A model for object detaction using You Only Look Once v3 algorithm.
 
 1. Download and unpack the main branch.
 2. Download the ***yolov3_optimized_best.weights*** file from https://drive.google.com/drive/folders/13C6JMyisoz3wDDdhj_85AeGnWgspQyTI  and place it inside the YOLOv3-aerial-photos-main folder.
