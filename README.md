@@ -2,7 +2,7 @@
 A model for object detaction using You Only Look Once v3 algorithm.
 
 1. Download and unpack the main branch.
-2. Download the ***yolov3_optimized_best.weights*** file from https://drive.google.com/drive/folders/13C6JMyisoz3wDDdhj_85AeGnWgspQyTI  and place it inside the YOLOv3-aerial-photos-main folder.
+2. Download the ***yolov3_optimized_best.weights*** file from [https://drive.google.com/drive/folders/13C6JMyisoz3wDDdhj_85AeGnWgspQyTI](https://drive.google.com/drive/folders/1GaYrD8bOkUA5qKdBtFWwYkWyZTN7gxBs?usp=sharing)  and place it inside the YOLOv3-aerial-photos-main folder.
    The google drive also contains all the files used to train the model, including Jupyter Notebook with adequate commands.
 4. Run Object_Detection.py and select the photo that you want to test the model on.
 
